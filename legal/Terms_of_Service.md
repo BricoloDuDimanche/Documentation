@@ -6,6 +6,7 @@
 # Terms of Service
 
 Last edition: 11 July 2019
+<!-- I do what i want -->
 
 ## Introduction
 
@@ -44,7 +45,7 @@ access, but we may do so.
 
 We offer a wide range of sources to stream audio content from. By requesting us streaming content from a supported
 source, you accept that we're not responsible nor liable from your use of or access to any of that third-party's
-content, service or website. You assume all responsibility for the streaming of any copyrighted material though
+content, service or website. You assume all responsibility for the streaming of any copyrighted material through
 our Service.
 
 ## Third-Party content
@@ -75,3 +76,5 @@ CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR OTHER INDIRECT DAMAGES, INCLUDIN
 FROM YOUR USE OF THE SERVICE OR OTHER MATERIALS ON, ACCESSED THROUGH OR DOWNLOADED FROM THE SERVICE, WHETHER BASED ON
 WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF THESE
 DAMAGES.
+
+You read all of that? Cool, [have a coffee](/coffee)
